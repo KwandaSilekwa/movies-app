@@ -2,6 +2,15 @@
 
 # Laravel Movies App
 
+* Movies App designed using Laravel and the TMDB APi.
+
+## Preview
+To see this a live deploy of this project
+
+  * [Movies App](http://movies-app-laravel.herokuapp.com/)
+
+
+
 ## Installation
 
 1. Clone the repo and `cd` into it
