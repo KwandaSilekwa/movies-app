@@ -2,7 +2,7 @@
 
 # Laravel Movies App
 
-* Movies App designed using Laravel and the TMDb APi.
+* Movies App designed using Laravel and the TMDb API.
 
 ## Preview
 To see this a live deploy of this project
